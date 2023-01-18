@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **shivamraghav00000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lZ0ixNad4E1dT5yB-ZC_BIf6OTFn9ztc/view?usp=share_link](https://drive.google.com/file/d/1lZ0ixNad4E1dT5yB-ZC_BIf6OTFn9ztc/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamraghav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamraghav/" height="30" width="40" /></a>
