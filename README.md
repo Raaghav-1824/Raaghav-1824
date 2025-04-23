@@ -11,7 +11,7 @@
 
 🌐 **Frontend Developer** | 📍 Noida, India  
 📩 shivamraghav00000@gmail.com | 
-🔗 [LinkedIn](https://www.linkedin.com/in/shivamraghav/) | [GitHub](https://github.com/Raaghav-1824)
+🔗 [LinkedIn](https://www.linkedin.com/in/shivamraghav/)
 
 ---
 
